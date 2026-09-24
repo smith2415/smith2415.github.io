@@ -1,0 +1,17 @@
+title: "Austin Schmid"
+description: "Austin Schmid is a business and communications professional with experience in financial communications, psychological operations, and military leadership."
+url: "https://your-github-username.github.io"
+baseurl: ""
+lang: "en-US"
+timezone: "America/Los_Angeles"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - attached_assets
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - PLAN.md
+  - README.md
+github_username: "your-github-username"
+linkedin_url: ""

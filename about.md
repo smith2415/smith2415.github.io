@@ -3,12 +3,12 @@ layout: page
 title: About
 description: Learn more about Austin Schmid's education, interests, and writing.
 permalink: /about/
-intro: A business and communications professional shaped by service, study, and a habit of looking closely at how information moves people.
+intro: Experience across financial communications, psychological operations, military leadership, and graduate business education.
 ---
 
 <section class="content-section">
   <h2>Background</h2>
-  <p>My work has taken me from military operations and global deployments to financial communications and graduate business education. Across those settings, I have focused on understanding complex environments, communicating clearly, and helping teams perform under pressure.</p>
+  <p>My work has taken me from military operations and global deployments to financial communications and graduate business education. Responsibilities have included research and analysis, information and counterpropaganda efforts, operations and reporting, training, and team leadership.</p>
   <p>I am currently pursuing a Master of Business Administration at the University of California, Berkeley, Haas School of Business.</p>
 </section>
 

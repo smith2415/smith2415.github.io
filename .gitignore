@@ -5,6 +5,10 @@ dist
 tmp
 out-tsc
 *.tsbuildinfo
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
 .expo
 .expo-shared
 

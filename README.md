@@ -1,6 +1,6 @@
 # Austin Schmid — Portfolio
 
-This repository is a static Jekyll portfolio site designed to publish directly to GitHub Pages as a user site.
+This repository is a static Jekyll portfolio site designed to publish directly to GitHub Pages as a user site. `baseurl` stays empty, and internal links use Jekyll's URL filters.
 
 ## Update the site
 
@@ -26,10 +26,10 @@ No manual build step or application server is required.
 
 ## Preview locally
 
-Install Ruby and Bundler if they are not already available, then run:
+Install Ruby and Jekyll if they are not already available, then run:
 
 ```bash
-gem install bundler jekyll
+gem install jekyll
 jekyll serve --livereload
 ```
 

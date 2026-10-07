@@ -7,7 +7,7 @@ description: Austin Schmid — business and communications professional with a b
 <section class="hero" aria-labelledby="intro-title">
   <p class="eyebrow">Austin Schmid <span aria-hidden="true">/</span> Portfolio</p>
   <h1 id="intro-title">Clear thinking for complex environments.</h1>
-  <p class="hero__lede">I work at the intersection of communications, analysis, and leadership—bringing structure to high-stakes problems and teams.</p>
+  <p class="hero__lede">My experience spans financial communications, psychological operations, military leadership, and business education.</p>
   <div class="hero__actions">
     <a class="button button--primary" href="{{ '/work-experience/' | relative_url }}">View experience <span aria-hidden="true">↗</span></a>
     <a class="button button--text" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">→</span></a>
@@ -39,21 +39,21 @@ description: Austin Schmid — business and communications professional with a b
 
 <section class="section section--rule" aria-labelledby="selected-title">
   <div class="section__label">
-    <p class="eyebrow" id="selected-title">Selected work</p>
+    <p class="eyebrow" id="selected-title">Areas of experience</p>
   </div>
   <div class="section__body">
     <div class="feature-list">
       <a class="feature-link" href="{{ '/work-experience/' | relative_url }}">
         <span>
-          <strong>Communications &amp; strategy</strong>
-          <small>Research, analysis, crisis, and social impact</small>
+          <strong>Communications &amp; research</strong>
+          <small>M&amp;A, crisis management, and social impact</small>
         </span>
         <span class="feature-link__arrow" aria-hidden="true">↗</span>
       </a>
       <a class="feature-link" href="{{ '/about/' | relative_url }}">
         <span>
           <strong>Leadership &amp; operations</strong>
-          <small>Teams, training, readiness, and global deployments</small>
+          <small>Team leadership, training, and global deployments</small>
         </span>
         <span class="feature-link__arrow" aria-hidden="true">↗</span>
       </a>

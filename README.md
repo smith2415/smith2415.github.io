@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Austin Schmid — Portfolio
 
 This repository is a static Jekyll portfolio site designed to publish directly to GitHub Pages as the user site `smith2415.github.io`. `baseurl` stays empty, and internal links use Jekyll's URL filters.
@@ -38,3 +39,7 @@ Open `http://localhost:4000`.
 With the local server running, use Chrome DevTools → **Lighthouse**, select **Mobile** and **Desktop**, and run audits for Performance, Accessibility, Best Practices, and SEO. The target is 90 or higher in each category.
 
 The layout is designed for a 375px phone width and a 1280px desktop width. Check both widths after content changes.
+=======
+# smith2415.github.io
+Personal website
+>>>>>>> origin/main

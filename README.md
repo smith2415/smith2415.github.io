@@ -1,6 +1,6 @@
 # Austin Schmid — Portfolio
 
-This repository is a static Jekyll portfolio site designed to publish directly to GitHub Pages as a user site. `baseurl` stays empty, and internal links use Jekyll's URL filters.
+This repository is a static Jekyll portfolio site designed to publish directly to GitHub Pages as the user site `smith2415.github.io`. `baseurl` stays empty, and internal links use Jekyll's URL filters.
 
 ## Update the site
 
@@ -8,19 +8,17 @@ This repository is a static Jekyll portfolio site designed to publish directly t
 - Shared page structure lives in `_layouts/`.
 - Shared head, navigation, and footer markup lives in `_includes/`.
 - Site-wide styles are in `assets/css/style.css`; the small theme toggle is in `assets/js/theme.js`.
-- Update `_config.yml` before publishing:
-  - Replace `your-github-username` in `url` and `github_username`.
-  - Add a LinkedIn profile URL to `linkedin_url` if desired.
+- `_config.yml` is configured for `smith2415.github.io`. If the repository moves to another GitHub username, update `url` and `github_username`.
+- Add a LinkedIn profile URL to `linkedin_url` if desired. With no LinkedIn URL, the Contact page displays no public contact link or email address.
 
 Content should remain grounded in the résumé. Do not add achievements, employers, clients, metrics, or projects that have not been supplied.
 
 ## Publish with GitHub Pages
 
-1. Create a GitHub repository named `<your-github-username>.github.io`.
-2. Replace the placeholders in `_config.yml`.
-3. Push the repository to the `main` branch.
-4. In the repository’s **Settings → Pages**, choose **Deploy from a branch**, select `main`, and choose `/ (root)`.
-5. GitHub Pages will build the site at `https://<your-github-username>.github.io`.
+1. Create a GitHub repository named `smith2415.github.io`.
+2. Push the repository to the `main` branch.
+3. In the repository’s **Settings → Pages**, choose **Deploy from a branch**, select `main`, and choose `/ (root)`.
+4. GitHub Pages will build the site at `https://smith2415.github.io`.
 
 No manual build step or application server is required.
 

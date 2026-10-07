@@ -3,7 +3,7 @@ layout: page
 title: Contact
 description: Connect with Austin Schmid.
 permalink: /contact/
-intro: The best way to connect is through LinkedIn.
+intro: Professional background, education, and writing.
 ---
 
 <section class="contact-panel">
@@ -13,9 +13,9 @@ intro: The best way to connect is through LinkedIn.
     <p>For professional conversations and updates, find me on LinkedIn.</p>
     <a class="button button--primary" href="{{ site.linkedin_url }}" rel="me noopener" target="_blank">Open LinkedIn <span aria-hidden="true">↗</span></a>
   {% else %}
-    <p class="eyebrow">LinkedIn link pending</p>
-    <h2>Let’s connect.</h2>
-    <p>A LinkedIn profile link will be added here once it is supplied. No public email address is displayed on this site.</p>
-    <p class="placeholder-note">Placeholder: add the LinkedIn URL in <code>_config.yml</code>.</p>
+    <p class="eyebrow">Contact information</p>
+    <h2>No public contact link.</h2>
+    <p>No email address is published here. Explore my professional experience and writing for more context.</p>
+    <a class="button button--primary" href="{{ '/about/#writing' | relative_url }}">Explore writing <span aria-hidden="true">↗</span></a>
   {% endif %}
 </section>
